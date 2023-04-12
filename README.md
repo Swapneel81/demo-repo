@@ -8,7 +8,6 @@ int getMax(int numbers[], int size){
       }
   }
   return max;
-
 }
 
 int main(){
