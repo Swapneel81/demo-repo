@@ -14,7 +14,6 @@ int getMax(int numbers[], int size){
 int main(){
 
 int numbers[5] = {5, 4, -2, 29, 8};
-
 std::cout << "Max number is - " << getMax(numbers, 5);
 
 return 0;
